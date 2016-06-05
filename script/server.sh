@@ -1,4 +1,5 @@
 #!/bin/bash -e
+#
 # Creating and Terminating a server from the CLI 
 # You need to install the AWS Command Line Interface from http://aws.amazon.com/cli/
 # to install it, you need to have python and pip installed
